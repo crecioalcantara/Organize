@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="uft-8">
+	<title> minha Primeira Página</title>
+
+
+ </head>
+
+
+<body>
+  	<h1> style="color:red;"> Leandro&Daniel tem cartão amarelo</h1>
+	<p> style="color:blue;">O cartão  vermelho...</P>
+	<p> style="color:yellow;"><strong>....vem depois do amarelo.</strong> </p>
+	<h2> Alunos com potencial</h2>
+	<ol>
+
+		<li style="color:green;>Aldete</li>
+		<li>Victor</li>
+		<li>Leandro</li>
+		<li>E toda a turma...</li>
+	</ol>
+	
+	<table border ="1"> 
+	<tr>
+	 	<tr>Codigo</tr>
+		<tr>Cidade</tr>
+		<tr>País</tr>
+		</tr>
+		<tr>
+		<td>01</td>
+		<td>Rio de Janeiro</td>
+		<td>Brasil</td>
+ 	</tr>
+	<tr>
+		<td>02</td>
+		<td>Paris</td>
+		<td>França</td>
+			
+	</tr>
+	<tr>
+		<td>03</td>
+		<td>Cidade do México</td>
+		<td>Mexico</td>
+		</tr>
+	</table>	
+
+ 	</body>
+
+
+ </html>
